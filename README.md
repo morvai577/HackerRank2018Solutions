@@ -1,2 +1,6 @@
 # HackerRank2018Solutions
-Nice warm up exercises to start the day
+
+## Algorithms Challenges
+
+### Challenge 1
+The function named solveMeFirst takes two integers (x, y) and computes their sum
