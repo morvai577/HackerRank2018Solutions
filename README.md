@@ -10,3 +10,6 @@ The function named solve takes two lines of strings and returns an array of two 
 
 ### Challenge 3
 The function named aVeryBigSum takes an array of integers and returns the sum of the array.
+
+### Challenge 4
+The function named diagonalDifference takes a matrix and computes the diagonal difference of the values inside the matrix.
