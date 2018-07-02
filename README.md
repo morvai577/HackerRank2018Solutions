@@ -13,3 +13,6 @@ The function named aVeryBigSum takes an array of integers and returns the sum of
 
 ### Challenge 4
 The function named diagonalDifference takes a matrix and computes the diagonal difference of the values inside the matrix.
+
+### Challenge 5
+The function named plusMinus takes an array and prints the following three lines: (1) A decimal representing of the fraction of positive numbers in the array compared to its size. (2) A decimal representing of the fraction of negative numbers in the array compared to its size. (3) A decimal representing of the fraction of zeros in the array compared to its size.
