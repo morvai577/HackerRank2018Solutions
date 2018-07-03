@@ -16,3 +16,8 @@ The function named diagonalDifference takes a matrix and computes the diagonal d
 
 ### Challenge 5
 The function named plusMinus takes an array and prints the following three lines: (1) A decimal representing of the fraction of positive numbers in the array compared to its size. (2) A decimal representing of the fraction of negative numbers in the array compared to its size. (3) A decimal representing of the fraction of zeros in the array compared to its size.
+
+### Challenge 6
+The function staircase takes an integer n and prints a staircase that is right-aligned, composed of # symbols and spaces, and has a height and width of n.
+ 
+
