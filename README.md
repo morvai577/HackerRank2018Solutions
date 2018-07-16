@@ -19,5 +19,8 @@ The function named plusMinus takes an array and prints the following three lines
 
 ### Challenge 6
 The function staircase takes an integer n and prints a staircase that is right-aligned, composed of # symbols and spaces, and has a height and width of n.
+
+### Challenge 7
+The function miniMaxSum takes five positive integers, finds the minimum and maximum values that can be calculated by summing exactly four of the five integers. Then prints the respective minimum and maximum values as a single line of two space-separated long integers.
  
 
