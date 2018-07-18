@@ -26,6 +26,8 @@ The function miniMaxSum takes five positive integers, finds the minimum and maxi
 ### Challenge 8
 The function birthdayCakeCandles takes two input lines: The first line contains a single integer, denoting the number of candles on the cake. The second line contains n space-separated integers, where each integer i describes the height of candle i. The function outputs the number of candles that can be blown out (the tallest candle in terms of height) on a new line.
 
+### Challenge 9
+The function timeConversion takes a time value in hour AM/PM format and converts it to military (24-hour) time.
 
 
 
