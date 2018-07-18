@@ -24,6 +24,7 @@ The function staircase takes an integer n and prints a staircase that is right-a
 The function miniMaxSum takes five positive integers, finds the minimum and maximum values that can be calculated by summing exactly four of the five integers. Then prints the respective minimum and maximum values as a single line of two space-separated long integers.
 
 ### Challenge 8
+<<<<<<< HEAD
 The function birthdayCakeCandles takes two input lines: The first line contains a single integer, denoting the number of candles on the cake. The second line contains n space-separated integers, where each integer i describes the height of candle i. The function outputs the number of candles that can be blown out (the tallest candle in terms of height) on a new line.
 
 ### Challenge 9
@@ -31,3 +32,6 @@ The function timeConversion takes a time value in hour AM/PM format and converts
 
 
 
+=======
+The function birthdayCakeCandles takes two input lines: The first line contains a single integer, denoting the number of candles on the cake. The second line contains n space-separated integers, where each integer i describes the height of candle i. The function outputs the number of candles that can be blown out (the tallest candle in terms of height) on a new line.
+>>>>>>> 4456a03eeba619f3ad687bd5553fb234977f2adc
