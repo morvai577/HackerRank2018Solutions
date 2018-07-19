@@ -28,3 +28,6 @@ The function birthdayCakeCandles takes two input lines: The first line contains 
 
 ### Challenge 9
 The function timeConversion takes a time value in hour AM/PM format and converts it to military (24-hour) time.
+
+### Challenge 10
+The function timeConversion takes a time value in hour AM/PM format and converts it to military (24-hour) time.
