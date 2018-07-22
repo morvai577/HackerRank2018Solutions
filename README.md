@@ -31,3 +31,6 @@ The function timeConversion takes a time value in hour AM/PM format and converts
 
 ### Challenge 10
 The function gradingStudents takes an array of students' raw grades and outputs the rounded grades according to the marking scheme.
+
+### Challenge 11
+The function countApplesAndOranges outputs the number of apples and oranges that fall on Sam's house, based on the given context in the specifications.
