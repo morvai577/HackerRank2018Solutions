@@ -34,3 +34,6 @@ The function gradingStudents takes an array of students' raw grades and outputs 
 
 ### Challenge 11
 The function countApplesAndOranges outputs the number of apples and oranges that fall on Sam's house, based on the given context in the specifications.
+
+### Challenge 12
+The function kangaroo outputs whether the two kangaroos reach the same position at the same time.
